@@ -1,5 +1,2 @@
-# name: ⚠️антиглушилка⚠️
+
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?type=tcp&security=none#🌐_t.me/nar_service_🛡️
-vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?encryption=none&type=ws&path=/getWorkerUpdates&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Diemen%20NL%20%5B*CIDR%20only%5D%20%7C%20sn000.frRU.orNL
-vless://mega233@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ir.ozone.ru&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%20%5BSNI%20only%5D%20Whitenet%20Russia%20-%205
-vless://mega2499@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ir.ozone.ru&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%20%5BSNI%20only%5D%20Whitenet%20Russia%20-%204
